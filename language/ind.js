@@ -40,7 +40,7 @@ ${bi}${prefix}team
 ${bi}${prefix}support
 ${bu}
 
-*Support Nekopoi.care*
+*Support VERDIBOTZ1.SERVER*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -51,7 +51,7 @@ ${bi}Ori
 ${bi}Katalog
 ${bu}
 
-*Support Nekopoi.care*
+*Support VERDIBOTZ1.SERVER*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -61,7 +61,7 @@ ${bi}${prefix}start
 ${bi}${prefix}next
 ${bi}${prefix}skip
 ${bu}
-*Support Nekopoi.care*
+*Support VERDIBOTZ1.SERVER*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -82,7 +82,7 @@ ${bi}${prefix}emoji
 ${bi}${prefix}brainly
 ${bu}
 
-*Support Nekopoi.care*
+*Support VERDIBOTZ1.SERVER*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -143,7 +143,7 @@ ${bi}${prefix}listcmd
 ${bi}${prefix}listrespon
 ${bu}
 
-*Support Nekopoi.care*
+*Support VERDIBOTZ1.SERVER*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -172,7 +172,7 @@ ${bi}${prefix}listvideo
 ${bi}${prefix}listimage
 ${bu}
 
-*Support Nekopoi.care*
+*Support VERDIBOTZ1.SERVER*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -204,7 +204,7 @@ ${bi}${prefix}listonline
 ${bi}${prefix}grupinfo
 ${bu}
 
-*Support Nekopoi.care*
+*Support VERDIBOTZ1.SERVER*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -260,7 +260,7 @@ ${bi}${prefix}tempovid
 ${bi}${prefix}detikvideo
 ${bu}
 
-*Support Nekopoi.care*
+*Support VERDIBOTZ1.SERVER*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
@@ -711,16 +711,16 @@ Peraturan: 19 Juli 2021
 *Powered By @${ow.split("@")[0]}*`}
 
 exports.gcofficial = (player, hahh) => { 
-	return `Silahkan join Group Official Luc Bot,sekedar senang-senang dan mengetahui Update terbaru Dari Bot
+	return `Silahkan join Group Official memek bot,sekedar senang-senang dan mengetahui Update terbaru Dari Bot
 
 Group 1
-https://chat.whatsapp.com/ItWuInyvxDs1mDHUVV5xM8
+https://chat.whatsapp.com/ItWuInyvxDs1mDHUVV5xM
 
 Group 2
-https://chat.whatsapp.com/CBGSIU5bKPi8NFPG532ZUE
+https://chat.whatsapp.com/CBGSIU5bKPi8NFPG532ZU
 
 Group 3
-https://chat.whatsapp.com/CXPjrQPrn6mCU8EOnhvoSG
+https://chat.whatsapp.com/CXPjrQPrn6mCU8EOnhvoS
 
 *Jika ada informasi penting mengenai bot atau semacamnya kemungkinan akan di share di group.*
 *Support Nekopoi.care*
@@ -735,7 +735,7 @@ ${bi}1 Bulan:Rp.25.000
 ${bu}
 
 Kalau mau sewa silahkan chat Owner Bot
-*Support Nekopoi.care*
+*Support VERDIBOTZ1.SERVER*
 *Official Bot By @${numbernye.split("@")[0]}*
 *Powered By @${ow.split("@")[0]}*`}
 
