@@ -3,7 +3,10 @@
 <p align="center">
   <img src="https://github.com/siegrin/siegrin/blob/main/Assets/doctor.fate.gif" />
 </p>
+<div align="center">
+<img src="https://c.tenor.com/sTFc7j1xRJ0AAAAS/doge-dancing-doge.gif?format=jpg&name=900x900" alt="Xeon" width="170" />
 
+## Doge Bot
  ---------
 <p align="center">
 <img src="https://github.com/Siegrin/LucBot/blob/main/strg/image/gaklah.jpeg" width="300" height="200"/>
